@@ -8,7 +8,6 @@ import { getBalanceNumber } from 'utils/formatBalance'
 export interface VaultProps {
   label: string
   pid: number
-  image: string
   provider?: string
 }
 
@@ -32,7 +31,7 @@ const Container = styled.div`
   }
 `
 
-const Vault: React.FunctionComponent<VaultProps> = ({ image, label, pid, provider }) => {
+const Vault: React.FunctionComponent<VaultProps> = ({ label, pid, provider }) => {
   const { stakedBalance } = useVaultUser(pid, provider)
   const { t } = useTranslation()
   const rawStakedBalance = getBalanceNumber(stakedBalance)
@@ -51,7 +50,6 @@ const Vault: React.FunctionComponent<VaultProps> = ({ image, label, pid, provide
 
   return (
     <Container>
-      {/* <IconImage src={`/images/farms/${image}.svg`} alt="icon" width={40} height={40} mr="8px" /> */}
       <IconImage src={`/images/farms/${label.toLocaleLowerCase()}.svg`} alt="icon" width={40} height={40} mr="8px" />
       <div>
         {handleRenderVaulting()}
