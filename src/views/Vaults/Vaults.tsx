@@ -303,6 +303,7 @@ const Vaults: React.FC = () => {
     const row: RowProps = {
       apr: {
         value: vault.apy && vault.apy.toLocaleString('en-US', { maximumFractionDigits: 2 }),
+        // multiplier: vault.multiplier,
         lpLabel,
         quoteTokenAdresses: quoteToken.address,
         quoteTokenSymbol: quoteToken.symbol,
@@ -311,7 +312,6 @@ const Vaults: React.FC = () => {
         originalValue: vault.apy,
       },
       farm: {
-        image: vault?.lpSymbol?.split(' ')[0]?.toLocaleLowerCase(),
         label: lpLabel,
         pid: vault.pid,
         provider: vault.provider,
@@ -324,11 +324,13 @@ const Vaults: React.FC = () => {
         liquidity: vault.liquidity,
       },
       multiplier: {
-        multiplier: vault.multiplier,
+        multiplier: vault.provider,
       },
       details: vault,
     };
     
+    
+
     return row
   })
   const renderContent = (): JSX.Element => {
