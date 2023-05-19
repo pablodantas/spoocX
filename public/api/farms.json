@@ -1,0 +1,54 @@
+[
+  {
+    "pid": 3,
+    "lpSymbol": "WINGS-BNB LP",
+    "lpAddresses": {
+      "97": "",
+      "56": "0x1CD0fe829d83Fb49c8831Ae860d19c6062adA6e9"
+    },
+    "token": {
+      "symbol": "TESTE",
+      "address": {
+        "56": "0x0487b824c8261462f88940f97053e65bdb498446",
+        "97": ""
+      },
+      "decimals": 18,
+      "projectLink": "https://jetswap.finance/"
+    },
+    "quoteToken": {
+      "symbol": "wBNB",
+      "address": {
+        "56": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "97": "0xae13d989dac2f0debff460ac112a837c89baa7cd"
+      },
+      "decimals": 18,
+      "projectLink": "https://pancakeswap.finance/"
+    }
+  },
+  {
+    "pid": 4,
+    "lpSymbol": "WINGS-BUSD LP",
+    "lpAddresses": {
+      "97": "",
+      "56": "0xFBa740304f3fc39d0e79703a5D7788E13f877DC0"
+    },
+    "token": {
+      "symbol": "WINGS",
+      "address": {
+        "56": "0x0487b824c8261462f88940f97053e65bdb498446",
+        "97": ""
+      },
+      "decimals": 18,
+      "projectLink": "https://jetswap.finance/"
+    },
+    "quoteToken": {
+      "symbol": "BUSD",
+      "address": {
+        "56": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "97": ""
+      },
+      "decimals": 18,
+      "projectLink": "https://www.paxos.com/busd/"
+    }
+  }
+]

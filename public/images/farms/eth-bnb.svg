@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:v="https://vecta.io/nano"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 186 171"
+	 style="enable-background:new 0 0 186 171;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FEC803;}
+	.st1{fill:#F3BA2F;}
+	.st2{opacity:0.1;fill:none;stroke:#191326;stroke-width:3;enable-background:new    ;}
+	.st3{fill:#FFFFFF;}
+	.st4{opacity:0.1;fill:none;stroke:#565656;stroke-width:2.837;enable-background:new    ;}
+	.st5{fill:#343434;}
+	.st6{fill:#8C8C8C;}
+	.st7{fill:#3C3C3B;}
+	.st8{fill:#141414;}
+	.st9{fill:#393939;}
+</style>
+<g>
+	<path class="st0" d="M172.4,95c-1-7.8-6.2-14.9-13.3-18.2c-8.6-4-18.7-2.6-27.8-5.3c-11.8-3.5-20.4-13.3-30.9-19.8
+		C88,44.1,73.2,41.4,58.8,38.8C49.2,37.1,39.1,35.5,30,39c-12.3,4.9-19.5,20-15.5,32.6c6.8,21.4,37,27.1,46.2,47.6
+		c4.8,10.6,3.2,24.1,10.7,32.9c9,10.5,25.5,8.7,38.9,5.5c10.2-2.5,20.3-5.3,30.4-8.2c8.2-2.3,16.8-4.8,22.8-10.8
+		c7.5-7.4,4.4-13.1,4.3-21.7C167.9,109.5,173.5,103.3,172.4,95z"/>
+</g>
+<circle class="st1" cx="70.2" cy="39.8" r="29"/>
+<circle class="st2" cx="70.2" cy="39.8" r="27.5"/>
+<g id="Layer_x0020_1">
+	<g id="_1421344023328">
+		<path class="st3" d="M161.9,93.8c-5.8,23.3-29.4,37.5-52.7,31.7c-23.3-5.8-37.5-29.4-31.7-52.7c5.8-23.3,29.4-37.5,52.7-31.7
+			C153.5,46.9,167.7,70.5,161.9,93.8L161.9,93.8L161.9,93.8z"/>
+	</g>
+</g>
+<circle class="st4" cx="119.7" cy="83.3" r="42.1"/>
+<g>
+	<path class="st3" d="M63.9,37.2l6.3-6.3l6.3,6.3l3.7-3.7l-9.9-9.9l-9.9,9.9L63.9,37.2z M54,39.8l3.7-3.7l3.7,3.7l-3.7,3.7L54,39.8z
+		 M63.9,42.4l6.3,6.3l6.3-6.3l3.7,3.7l-10,9.9l-9.9-10l0,0L63.9,42.4z M79.1,39.8l3.7-3.7l3.7,3.7l-3.7,3.7L79.1,39.8z M73.9,39.8
+		L73.9,39.8L73.9,39.8l-3.7,3.7l-3.7-3.7l0,0l0,0l0.6-0.7l0.3-0.3l2.7-2.7L73.9,39.8L73.9,39.8z"/>
+</g>
+<g id="Layer_x0020_1_1_">
+	<g id="_1421394342400">
+		<g>
+			<polygon class="st5" points="119.7,50.8 119.3,52.3 119.3,95.3 119.7,95.7 139.6,83.9 			"/>
+			<polygon class="st6" points="119.7,50.8 99.7,83.9 119.7,95.7 119.7,74.8 			"/>
+			<polygon class="st7" points="119.7,99.5 119.4,99.8 119.4,115.1 119.7,115.8 139.7,87.7 			"/>
+			<polygon class="st6" points="119.7,115.8 119.7,99.5 99.7,87.7 			"/>
+			<polygon class="st8" points="119.7,95.7 139.6,83.9 119.7,74.8 			"/>
+			<polygon class="st9" points="99.7,83.9 119.7,95.7 119.7,74.8 			"/>
+		</g>
+	</g>
+</g>
+</svg>
